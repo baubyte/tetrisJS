@@ -1,0 +1,20 @@
+* {
+    font-family: 'Press Start 2P', cursive;
+  }
+  .next {
+    border: solid 4px;
+    border-color: green;
+    background-color: black;
+  }
+  .game-board {
+    border: solid 4px;
+    border-color: green;
+    background-color: black;
+  }
+  
+  .start-button {
+    background-color: #4caf50;
+    font-size: 16px;
+    padding: 15px 30px;
+    cursor: pointer;
+  }
